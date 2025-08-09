@@ -1,0 +1,4 @@
+Create a grid, and use the CNN to read the number at each location and decide what bird it belongs to. 
+
+Train the number_identifier on pre-existing hand writing data sets.
+
