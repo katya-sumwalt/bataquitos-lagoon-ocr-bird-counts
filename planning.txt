@@ -1,4 +1,5 @@
-Create a grid, and use the CNN to read the number at each location and decide what bird it belongs to. 
 
-Train the number_identifier on pre-existing hand writing data sets.
-
+1. Create a grid, and use the CNN to read the number at each location and decide what bird it belongs to with a coordinate system.
+    - CNN for where the list starts and where it ends- starting height and blank spaces 
+    
+2. Train the number_identifier on pre-existing hand writing data sets (CNN) and what grid it corresponds to
